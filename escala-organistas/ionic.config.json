@@ -1,0 +1,7 @@
+{
+  "name": "escala-organistas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

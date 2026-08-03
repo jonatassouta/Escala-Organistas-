@@ -1,6 +1,7 @@
 # Escala-Organistas
 
-Aplicativo web/mobile para gerenciamento de escalas de organistas em congregações religiosas.
+Aplicativo web/mobile para gerenciamento de escalas de organistas.
+
 Desenvolvido com Ionic React + Capacitor, funciona no navegador e em dispositivos Android.
 
 ## Funcionalidades

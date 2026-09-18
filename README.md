@@ -6,7 +6,7 @@ Desenvolvido com Ionic React + Capacitor, funciona no navegador e em dispositivo
 
 ## Funcionalidades
 
-- **Cadastro de Organistas** — adicione, edite e remova organistas, defina funções (RJM, Coral) e restrições de disponibilidade por dia da semana ou datas específicas.
+- **Cadastro de Organistas** — adicione, edite e remova organistas, defina funções (RJM, CO) e restrições de disponibilidade por dia da semana ou datas específicas.
 - **Geração Automática de Escalas** — gera escalas rotativas para 3 meses respeitando restrições e distribuindo os serviços de forma equilibrada.
 - **Exportação em PDF** — gera PDF com calendário mensal, recomendações e lista de contatos, pronto para compartilhar.
 - **Configurações Flexíveis** — personalize slots de serviço, regras de ensaio, título do documento, cidade e textos de recomendação.
